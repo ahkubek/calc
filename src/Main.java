@@ -17,5 +17,6 @@ public class Main {
         System.out.println("ответ " + res1);
         System.out.println("ответ " + res2);
         System.out.println("ответ " + res3);
+        System.out.println("проверка");
     }
 }
